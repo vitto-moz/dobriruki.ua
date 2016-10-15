@@ -1,0 +1,14 @@
+/* ======= all colors on materializecss.com/color.html ======== */
+.nav-theme {								/* header nav and footer */
+	background-color: #ef5350 !important;
+}
+.category-theme {							/* category buttons */
+	background-color: #e53935 !important;
+}
+.floating-button-theme {					/* floating button */
+	background-color: #d32f2f !important;
+}
+.element-theme {							/* buttons */
+	background-color: #ff5252 !important;
+}
+/* ============================================================= */
